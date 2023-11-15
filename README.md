@@ -13,11 +13,11 @@ Jangan ragu untuk menghubungi saya melalui:
 
 - Email: codebayu33@gmail.com
 - LinkedIn: www.linkedin.com/in/bayu-kun
-- Website : bayukun.my.id
+- Website : www.bayukun.my.id
 
 ##📫 Kontribusi
 
-Saya senang menerima kontribusi dan masukan. Jika Anda tertarik untuk berkontribusi pada proyek-proyek saya, silakan hubungi lewat email atau website saya (bayukun.my.id).
+Saya senang menerima kontribusi dan masukan. Jika Anda tertarik untuk berkontribusi pada proyek-proyek saya, silakan hubungi lewat email atau website saya (www.bayukun.my.id).
 
 [![Follow me on GitHub](https://img.shields.io/github/followers/BayuKun28?label=Follow&style=social)](https://github.com/BayuKun28)
 
