@@ -7,7 +7,7 @@ Selamat datang di profil GitHub saya! Saya Bayu Prastyo, seorang Programmer deng
 - **Bahasa Pemrograman:** PHP, Java, Javascript, VB.NET , C++, React , C# , Delphi 
 - **Teknologi:** React Native, React JS , Laravel, Codeigniter , Flutter
 
-## 🌱 Cara Menghubungi Saya
+## 💬 Cara Menghubungi Saya
 
 Jangan ragu untuk menghubungi saya melalui:
 
@@ -15,7 +15,7 @@ Jangan ragu untuk menghubungi saya melalui:
 - LinkedIn: www.linkedin.com/in/bayu-kun
 - Website : www.bayukun.my.id
 
-##📫 Kontribusi
+## 📫 Kontribusi
 
 Saya senang menerima kontribusi dan masukan. Jika Anda tertarik untuk berkontribusi pada proyek-proyek saya, silakan hubungi lewat email atau website saya (www.bayukun.my.id).
 
