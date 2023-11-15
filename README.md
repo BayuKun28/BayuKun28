@@ -4,8 +4,14 @@ Selamat datang di profil GitHub saya! Saya Bayu Prastyo, seorang Programmer deng
 
 ## 🔭 Keahlian
 
-- **Bahasa Pemrograman:** PHP, Java, Javascript, VB.NET , C++, React , C# , Delphi 
-- **Teknologi:** React Native, React JS , Laravel, Codeigniter , Flutter
+- **Bahasa Pemrograman:** PHP, Java, SQL, Javascript, VB.NET , C++, React , C# , Delphi 
+- **Teknologi:** React Native, React JS , Laravel, Codeigniter , Flutter, Postgresql, Mysql, MariaDB, Oracle
+  
+💻 Frontend Development: Mendesain antarmuka pengguna yang menarik dengan HTML, CSS, dan JavaScript. Saya terbiasa dengan kerangka kerja seperti Bootstrap untuk menciptakan tampilan yang menarik.
+
+⚙️ Backend Magic: Membangun logika aplikasi dengan bahasa seperti PHP,Javascript. Saya memiliki pengalaman dalam merancang API dan mengelola basis data.
+
+🌐 Fullstack Wizardry: Menggabungkan keahlian frontend dan backend untuk menciptakan aplikasi web lengkap yang responsif dan kuat.
 
 ## 💬 Cara Menghubungi Saya
 
