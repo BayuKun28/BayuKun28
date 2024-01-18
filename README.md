@@ -12,7 +12,7 @@ Selamat datang di profil GitHub saya! Saya Bayu Prastyo, seorang Programmer deng
 ⚙️ Backend Magic: Membangun logika aplikasi dengan bahasa seperti PHP,Javascript. Saya memiliki pengalaman dalam merancang API dan mengelola basis data.
 
 🌐 Fullstack Wizardry: Menggabungkan keahlian frontend dan backend untuk menciptakan aplikasi web lengkap yang responsif dan kuat.
-
+## 🔭 SEMUA PROJECT DISINI SAYA PRIVATE , JIKA INGIN BERTANYA SILAHKAN HUBUNGI SAYA
 ## 💬 Cara Menghubungi Saya
 
 Jangan ragu untuk menghubungi saya melalui:
