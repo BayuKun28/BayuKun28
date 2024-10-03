@@ -5,7 +5,7 @@ Hi there Bayu Prastyo Here👋<br>Selamat datang di profil GitHub saya! Saya Bay
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/bayukun_28) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/bayu-kun)
 
-- Email: codebayu33@gmail.com
+- Email: bayukundev@gmail.com
 - Website : www.bayukun.my.id
 
 # 💻 Tech Stack:
